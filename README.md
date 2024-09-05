@@ -8,6 +8,11 @@
 
 # **Portfólio de Ciência de Dados**
 
+
+**[Prevenção de Fraudes](https://github.com/FelipeLRoll/prevencao-fraudes)**  
+
+![](https://github.com/FelipeLRoll/prevencao-fraudes/blob/main/screenshots/fraude)
+
 **[Análise campeonato WEC](https://github.com/FelipeLRoll/wec-analysis)**  
 
 [![FIAWEC](https://img.shields.io/badge/FIA_WEC-Kaggle_Dataset-blue.svg)](https://www.kaggle.com/datasets/feliperoll/fia-wec-2012-2023-le-mans-2011)
