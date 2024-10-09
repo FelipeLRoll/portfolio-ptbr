@@ -11,7 +11,21 @@
 
 **[Prevenção de Fraudes](https://github.com/FelipeLRoll/prevencao-fraudes)**  
 
-![](https://github.com/FelipeLRoll/prevencao-fraudes/blob/main/screenshots/fraude)
+![](https://github.com/FelipeLRoll/prevencao-fraudes/blob/main/screenshots/fraude.png)
+
+- **Descrição:**
+  
+  Este projeto foca na construção de um modelo de machine learning para prever fraudes potenciais em transações financeiras. O conjunto de dados inclui diversas características relacionadas a empréstimos e clientes.
+  
+- **Objetivos:**
+  
+  O objetivo é classificar as transações como potencialmente fraudulentas ou não fraudulentas, sendo a coluna alvo "Possivel_Fraude".
+  
+- **Resultados:**
+  
+  Os resultados podem ser vistos [Aqui](https://github.com/FelipeLRoll/prevencao-fraudes/blob/main/readmePortugues.md)
+<br>
+<br>
 
 **[Análise campeonato WEC](https://github.com/FelipeLRoll/wec-analysis)**  
 
