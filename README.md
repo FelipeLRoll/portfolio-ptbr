@@ -8,6 +8,22 @@
 
 # **Portfólio de Ciência de Dados**
 
+**[Previsão de Inadimplência](https://github.com/FelipeLRoll/previsao-inadimplencia)**  
+
+![](https://github.com/FelipeLRoll/previsao-inadimplencia/blob/main/imagens/inadimplencia.jpg)
+
+- **Descrição:**
+  
+  A inadimplência é um problema crítico para as instituições financeiras, pois impacta diretamente o fluxo de caixa e a saúde financeira das empresas. Prever com antecedência quais clientes têm maior probabilidade de inadimplência permite que as empresas adotem estratégias preventivas, minimizando perdas.
+  
+- **Objetivo:**
+  
+  O principal objetivo deste projeto é construir um modelo de Machine Learning capaz de prever a inadimplência de clientes com base em um conjunto de dados de contratos de financiamento.
+  
+- **Resultados:**
+  
+  Resultados can be seen [Here](https://github.com/FelipeLRoll/previsao-inadimplencia/blob/main/readme.md)
+
 
 **[Prevenção de Fraudes](https://github.com/FelipeLRoll/prevencao-fraudes)**  
 
@@ -23,7 +39,7 @@
   
 - **Resultados:**
   
-  Os resultados podem ser vistos [Aqui](https://github.com/FelipeLRoll/prevencao-fraudes/blob/main/readmePortugues.md)
+  Os resultados podem ser vistos [Aqui](https://github.com/FelipeLRoll/previsao-inadimplencia/blob/main/readmePortugues.md)
 <br>
 <br>
 
