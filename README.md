@@ -22,7 +22,7 @@
   
 - **Resultados:**
   
-  Resultados can be seen [Here](https://github.com/FelipeLRoll/previsao-inadimplencia/blob/main/readme.md)
+  Resultados podem ser vistos [Aqui](https://github.com/FelipeLRoll/previsao-inadimplencia/blob/main/readmePortugues.md)
 
 
 **[Prevenção de Fraudes](https://github.com/FelipeLRoll/prevencao-fraudes)**  
