@@ -1,6 +1,9 @@
 [![author](https://img.shields.io/badge/author-feliperoll-purple.svg)](https://www.linkedin.com/in/felipe-roll/)
 
-![Screenshot_6](https://github.com/FelipeLRoll/portifolio/assets/154685092/6e7bc906-62e3-4dbc-90b0-8981e897701b)
+<img src="https://github.com/FelipeLRoll/portifolio/assets/154685092/6e7bc906-62e3-4dbc-90b0-8981e897701b" width="600"/>
+
+---
+
 
 # **Portfólio de IA**
 
@@ -10,7 +13,7 @@
 
 **[Previsão de Inadimplência](https://github.com/FelipeLRoll/previsao-inadimplencia)**  
 
-![](https://github.com/FelipeLRoll/previsao-inadimplencia/blob/main/imagens/inadimplencia.jpg)
+<img src="https://github.com/FelipeLRoll/previsao-inadimplencia/blob/main/imagens/inadimplencia.jpg" width="600"/>
 
 - **Descrição:**
   
@@ -23,11 +26,12 @@
 - **Resultados:**
   
   Resultados podem ser vistos [Aqui](https://github.com/FelipeLRoll/previsao-inadimplencia/blob/main/readmePortugues.md)
-
+  
+---
 
 **[Prevenção de Fraudes](https://github.com/FelipeLRoll/prevencao-fraudes)**  
 
-![](https://github.com/FelipeLRoll/prevencao-fraudes/blob/main/screenshots/fraude.png)
+<img src="https://github.com/FelipeLRoll/prevencao-fraudes/blob/main/screenshots/fraude.png" width="600"/>
 
 - **Descrição:**
   
@@ -43,11 +47,13 @@
 <br>
 <br>
 
+---
+
 **[Análise campeonato WEC](https://github.com/FelipeLRoll/wec-analysis)**  
 
 [![FIAWEC](https://img.shields.io/badge/FIA_WEC-Kaggle_Dataset-blue.svg)](https://www.kaggle.com/datasets/feliperoll/fia-wec-2012-2023-le-mans-2011)
 
-![](https://github.com/FelipeLRoll/portfolio/blob/main/images/total-energies-start-fia-w-qe117sun9vmq.png)
+<img src="https://github.com/FelipeLRoll/portfolio/blob/main/images/total-energies-start-fia-w-qe117sun9vmq.png" width="600"/>
 
 - **Descrição:**
   
@@ -63,12 +69,13 @@
 <br>
 <br>
 
+---
 
 **[Predição de Salário DS com Flask](https://github.com/FelipeLRoll/ds_salary)**
 
 **[Predição de Salário DS com Streamlit](https://github.com/FelipeLRoll/ds-salary-streamlit)**
 
-![](https://github.com/FelipeLRoll/portfolio/blob/main/images/salary.png)
+<img src="https://github.com/FelipeLRoll/portfolio/blob/main/images/salary.png" width="600"/>
 
 * Existem duas versões deste projeto, uma que usa [Flask](https://github.com/FelipeLRoll/ds_salary) e outra que usa [Streamlit](https://github.com/FelipeLRoll/ds-salary-streamlit), a versão com streamlit é mais recente e melhor, mas resolvi deixar ambas aqui.
 
@@ -87,10 +94,13 @@
   * O resultado para a versão  Flask pode ser visto usando a classe _prediction.ipynb_ para um teste rápido, ou usando Flask conforme instruído no [Readme](https://github.com/FelipeLRoll/ds_salary/blob/main/README.md)
 
   * O resultado para a versão  Streamlit pode ser vista [Aqui](https://ds-salary.streamlit.app)
+ 
+---
     
 **[Análise Canal do Youtube](https://github.com/FelipeLRoll/Teste-Youtube/tree/main)**
 
-![](https://github.com/FelipeLRoll/portfolio/blob/main/images/Logo_of_YouTube_(2015-2017).svg.png)
+<img src="https://github.com/FelipeLRoll/portfolio/blob/main/images/Logo_of_YouTube_(2015-2017).svg.png" width="600"/>
+
 - **Objetivos:**
   
 Este projeto tem como principal objetivo realizar uma análise de dados sobre a performance de vídeos em um canal do YouTube, utilizando técnicas de análise exploratória e visualização de dados para gerar insights que orientem decisões estratégicas.
@@ -99,6 +109,7 @@ Este projeto tem como principal objetivo realizar uma análise de dados sobre a 
 - Identificar padrões
 - Descobrir quais temas geram maior engajamento
 
+---
 
 # **Portfólio de Python**
 
@@ -107,6 +118,3 @@ Este projeto tem como principal objetivo realizar uma análise de dados sobre a 
 **[Automação de envio de email](https://github.com/FelipeLRoll/automatizacao_de_email)** 
 
 **[Dashboard de ações](https://github.com/FelipeLRoll/dashboard-com-streamlit)** 
-
-
-  
