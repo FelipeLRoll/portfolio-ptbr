@@ -87,6 +87,17 @@
   * O resultado para a versão  Flask pode ser visto usando a classe _prediction.ipynb_ para um teste rápido, ou usando Flask conforme instruído no [Readme](https://github.com/FelipeLRoll/ds_salary/blob/main/README.md)
 
   * O resultado para a versão  Streamlit pode ser vista [Aqui](https://ds-salary.streamlit.app)
+    
+**[Análise Canal do Youtube](https://github.com/FelipeLRoll/Teste-Youtube/tree/main)**
+
+![](https://github.com/FelipeLRoll/portfolio/blob/main/images/Logo_of_YouTube_(2015-2017).svg.png)
+- **Objetivos:**
+  
+Este projeto tem como principal objetivo realizar uma análise de dados sobre a performance de vídeos em um canal do YouTube, utilizando técnicas de análise exploratória e visualização de dados para gerar insights que orientem decisões estratégicas.
+
+- Investigar os fatores que influenciam o desempenho dos vídeos
+- Identificar padrões
+- Descobrir quais temas geram maior engajamento
 
 
 # **Portfólio de Python**
