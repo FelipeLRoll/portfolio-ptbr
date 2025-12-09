@@ -3,7 +3,12 @@
 <img src="https://github.com/FelipeLRoll/portifolio/assets/154685092/6e7bc906-62e3-4dbc-90b0-8981e897701b" width="600"/>
 
 ---
+# **Portfólio de QA**
 
+
+<img src="https://github.com/FelipeLRoll/portfolio-eng/tree/main/images/qa.jpg" width="600"/>
+
+**[Projeto de QA](https://github.com/FelipeLRoll/qa-project)** 
 
 # **Portfólio de IA**
 
