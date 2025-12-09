@@ -6,7 +6,7 @@
 # **Portfólio de QA**
 
 
-<img src="https://github.com/FelipeLRoll/portfolio-eng/tree/main/images/qa.jpg" width="600"/>
+<img src="https://github.com/FelipeLRoll/portfolio-eng/blob/main/images/qa.jpg" width="400"/>
 
 **[Projeto de QA](https://github.com/FelipeLRoll/qa-project)** 
 
@@ -18,7 +18,7 @@
 
 **[Previsão de Inadimplência](https://github.com/FelipeLRoll/previsao-inadimplencia)**  
 
-<img src="https://github.com/FelipeLRoll/previsao-inadimplencia/blob/main/imagens/inadimplencia.jpg" width="600"/>
+<img src="https://github.com/FelipeLRoll/previsao-inadimplencia/blob/main/imagens/inadimplencia.jpg" width="400"/>
 
 - **Descrição:**
   
@@ -36,7 +36,7 @@
 
 **[Prevenção de Fraudes](https://github.com/FelipeLRoll/prevencao-fraudes)**  
 
-<img src="https://github.com/FelipeLRoll/prevencao-fraudes/blob/main/screenshots/fraude.png" width="600"/>
+<img src="https://github.com/FelipeLRoll/prevencao-fraudes/blob/main/screenshots/fraude.png" width="400"/>
 
 - **Descrição:**
   
@@ -58,7 +58,7 @@
 
 [![FIAWEC](https://img.shields.io/badge/FIA_WEC-Kaggle_Dataset-blue.svg)](https://www.kaggle.com/datasets/feliperoll/fia-wec-2012-2023-le-mans-2011)
 
-<img src="https://github.com/FelipeLRoll/portfolio/blob/main/images/total-energies-start-fia-w-qe117sun9vmq.png" width="600"/>
+<img src="https://github.com/FelipeLRoll/portfolio/blob/main/images/total-energies-start-fia-w-qe117sun9vmq.png" width="400"/>
 
 - **Descrição:**
   
@@ -80,7 +80,7 @@
 
 **[Predição de Salário DS com Streamlit](https://github.com/FelipeLRoll/ds-salary-streamlit)**
 
-<img src="https://github.com/FelipeLRoll/portfolio/blob/main/images/salary.png" width="600"/>
+<img src="https://github.com/FelipeLRoll/portfolio/blob/main/images/salary.png" width="400"/>
 
 * Existem duas versões deste projeto, uma que usa [Flask](https://github.com/FelipeLRoll/ds_salary) e outra que usa [Streamlit](https://github.com/FelipeLRoll/ds-salary-streamlit), a versão com streamlit é mais recente e melhor, mas resolvi deixar ambas aqui.
 
@@ -104,7 +104,7 @@
     
 **[Análise Canal do Youtube](https://github.com/FelipeLRoll/Teste-Youtube/tree/main)**
 
-<img src="https://github.com/FelipeLRoll/portfolio/blob/main/images/Logo_of_YouTube_(2015-2017).svg.png" width="600"/>
+<img src="https://github.com/FelipeLRoll/portfolio/blob/main/images/Logo_of_YouTube_(2015-2017).svg.png" width="400"/>
 
 - **Objetivos:**
   
